@@ -9,12 +9,18 @@ and one or more independent variables (often called 'predictors', 'covariates', 
 There are many other types of regression analysis, including:
 
 *Logistic regression: This is used for predicting categorical outcomes, such as whether or not a customer will buy a product.
+
 *Poisson regression: This is used for predicting counts, such as the number of customers who visit a website in a day.
+
 *Survival analysis: This is used for predicting the time until an event occurs, such as when a patient dies.
+
 
 Applications:
 
 *Economics: Forecasting economic growth, predicting product demand, and assessing policies' impacts.
+
 *Marketing: For targeting advertising, predicting customer churn, and optimizing product pricing.
+
 *Healthcare: For predicting disease risk, identifying treatment targets, and assessing the effectiveness of drugs.
+
 *Education: For predicting student performance, identifying factors influencing achievement teaching methods.
